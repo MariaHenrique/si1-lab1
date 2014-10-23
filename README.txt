@@ -1,2 +1,2 @@
-ESTE REPOSITÓRIO POSSUI OS CÓDIGOS PARA MEU LAB1- SI1.
+Este repositório contém o código para meu Lab1-SI1.
 
