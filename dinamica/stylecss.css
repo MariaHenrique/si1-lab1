@@ -1,0 +1,65 @@
+/* Corpo */
+body {
+	font-family: Verdana;
+	background-color: #473C8B;
+	text-align: center;
+	font-size: 20px;
+}
+
+/* Cabeçalhos */
+h1 {
+	color: #87CEFA;
+}
+h3{
+	color: black;
+}
+h2 {
+	color: white;
+}
+
+/* Parágrafos */
+p {
+	color: white;
+}
+
+/* Links */
+a:link {
+    color: #87CEFA;
+	font-size: 30px;	
+}
+a:hover {
+    color: #00FF7F;
+}
+a:active {
+    color: #00FA9A;
+}
+a:visited {
+	color: #00FA9A;
+}
+
+/* Imagens */
+img {
+	width: 26px;
+    height: 24px;
+}
+
+/* Listas */
+ol, ul{
+
+	list-style-position: inside;
+}
+li {
+	font-size: 20px;
+	color: white;
+}
+
+/* Específicos */
+esp{
+	text-decoration: underline;
+}
+
+
+
+
+
+
